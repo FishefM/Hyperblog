@@ -35,3 +35,11 @@ body{
     padding: 1em;
     font-size: 35px;
 }
+#footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding: 0.5em;
+    background-color: #acacac;
+    font-size: 30px;
+    font-style: oblique;
+}
