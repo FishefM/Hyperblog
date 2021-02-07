@@ -34,6 +34,13 @@ body{
 #post{
     padding: 1em;
     font-size: 35px;
+    align-items: center;
+}
+#post img{
+    width: 400px;
+    margin: 0;
+    align-self: center;
+    padding: 0 0 0 8em;
 }
 #footer{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
