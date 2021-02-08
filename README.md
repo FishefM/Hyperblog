@@ -13,6 +13,6 @@ Un blogsito asi bien bonito
  * Hecho por el increible platzi team
  * Incluye ejemplos en win linux y mac
  * Dispoible para todas las edades
- Y como un amable recordatorio
+ ### Y como un amable recordatorio ###
  **Este readme es un chiste**. 
 
