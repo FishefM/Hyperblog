@@ -10,6 +10,7 @@ Un blogsito asi bien bonito
  * EL verdadero amor por las buenas prácticas
  * Trucos muy locos del profe Freddy
  * Las personalidades multiples del CEO de platzi
+ * Hecho por el increible platzi team
 
  Y como un amable recordatorio
  **Este readme es un chiste**. 
