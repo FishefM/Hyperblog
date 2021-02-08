@@ -11,7 +11,7 @@ Un blogsito asi bien bonito
  * Trucos muy locos del profe Freddy
  * Las personalidades multiples del CEO de platzi
  * Hecho por el increible platzi team
-
+ *Incluye ejemplos en win linux y mac
  Y como un amable recordatorio
  **Este readme es un chiste**. 
 
